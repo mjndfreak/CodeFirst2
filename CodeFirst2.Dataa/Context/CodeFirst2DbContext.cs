@@ -1,4 +1,4 @@
-using CodeFirst2.Data.Entities;
+using CodeFirst2.Dataa.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace CodeFirst2.Dataa.Context;
