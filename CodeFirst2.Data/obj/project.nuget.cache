@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDHtVzsev/o=",
+  "dgSpecHash": "bE6AYHytIXL9PsgJb55pmWZks1iOAM2a159FZbDEiJeDFuSaExISj3gR+PVT91smft6x6e4OlR8nODeOGI0Jig==",
   "success": true,
-  "projectFilePath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj",
+  "projectFilePath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj",
   "expectedPackageFiles": [
     "/Users/cagdasergenc/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/cagdasergenc/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -940,7 +940,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "CodeFirst2.Dataa/1.0.0": {
+      "CodeFirst2.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -948,10 +948,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.10"
         },
         "compile": {
-          "bin/placeholder/CodeFirst2.Dataa.dll": {}
+          "bin/placeholder/CodeFirst2.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CodeFirst2.Dataa.dll": {}
+          "bin/placeholder/CodeFirst2.Data.dll": {}
         }
       }
     }
@@ -2608,15 +2608,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CodeFirst2.Dataa/1.0.0": {
+    "CodeFirst2.Data/1.0.0": {
       "type": "project",
-      "path": "../CodeFirst2.Dataa/CodeFirst2.Dataa.csproj",
-      "msbuildProject": "../CodeFirst2.Dataa/CodeFirst2.Dataa.csproj"
+      "path": "../CodeFirst2.Data/CodeFirst2.Data.csproj",
+      "msbuildProject": "../CodeFirst2.Data/CodeFirst2.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CodeFirst2.Dataa >= 1.0.0",
+      "CodeFirst2.Data >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
@@ -2650,8 +2650,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj": {
-              "projectPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj"
+            "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj": {
+              "projectPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj"
             }
           }
         }
@@ -2660,11 +2660,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

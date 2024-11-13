@@ -1,7 +1,7 @@
-using CodeFirst2.Dataa.Entities;
+using CodeFirst2.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace CodeFirst2.Dataa.Context;
+namespace CodeFirst2.Data.Context;
 
 public class CodeFirst2DbContext : DbContext
 {

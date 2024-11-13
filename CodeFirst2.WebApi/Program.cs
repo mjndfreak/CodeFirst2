@@ -1,4 +1,4 @@
-using CodeFirst2.Dataa.Context;
+using CodeFirst2.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

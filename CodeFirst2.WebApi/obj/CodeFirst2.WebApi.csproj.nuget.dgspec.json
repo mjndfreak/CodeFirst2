@@ -4,14 +4,14 @@
     "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.WebApi/CodeFirst2.WebApi.csproj": {}
   },
   "projects": {
-    "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj": {
+    "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj",
-        "projectName": "CodeFirst2.Dataa",
-        "projectPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj",
+        "projectUniqueName": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj",
+        "projectName": "CodeFirst2.Data",
+        "projectPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj",
         "packagesPath": "/Users/cagdasergenc/.nuget/packages/",
-        "outputPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/",
+        "outputPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cagdasergenc/.nuget/NuGet/NuGet.Config"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -106,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj": {
-                "projectPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/CodeFirst2.Dataa.csproj"
+              "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj": {
+                "projectPath": "/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Data/CodeFirst2.Data.csproj"
               }
             }
           }
@@ -116,11 +111,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {

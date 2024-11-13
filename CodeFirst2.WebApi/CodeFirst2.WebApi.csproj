@@ -22,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\CodeFirst2.Dataa\CodeFirst2.Dataa.csproj" />
+      <ProjectReference Include="..\CodeFirst2.Data\CodeFirst2.Data.csproj" />
     </ItemGroup>
 
 </Project>

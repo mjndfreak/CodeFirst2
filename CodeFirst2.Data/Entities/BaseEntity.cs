@@ -1,4 +1,4 @@
-namespace CodeFirst2.Dataa.Entities;
+namespace CodeFirst2.Data.Entities;
 
 public abstract class BaseEntity
 {

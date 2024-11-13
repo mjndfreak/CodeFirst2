@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst2.WebApi", "CodeFirst2.WebApi\CodeFirst2.WebApi.csproj", "{2A5ADB58-E2B1-4DCE-8844-D949E3C2DFB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst2.Dataa", "CodeFirst2.Dataa\CodeFirst2.Dataa.csproj", "{F6ED2589-AE56-40A6-BEC5-F6D42286ED14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst2.Data", "CodeFirst2.Data\CodeFirst2.Data.csproj", "{F6ED2589-AE56-40A6-BEC5-F6D42286ED14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
