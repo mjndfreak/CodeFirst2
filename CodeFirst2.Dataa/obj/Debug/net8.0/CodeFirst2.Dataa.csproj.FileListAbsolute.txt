@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/bin/Debug/net8.0/CodeFirst2.Dataa.deps.json
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/bin/Debug/net8.0/CodeFirst2.Dataa.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/bin/Debug/net8.0/CodeFirst2.Dataa.dll
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/bin/Debug/net8.0/CodeFirst2.Dataa.pdb
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.csproj.AssemblyReference.cache
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.dll
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/refint/CodeFirst2.Dataa.dll
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.pdb
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/CodeFirst2.Dataa.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/CodeFirst2/CodeFirst2.Dataa/obj/Debug/net8.0/ref/CodeFirst2.Dataa.dll
